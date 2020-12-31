@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Terra Incognita: diving into the subcortex 2021
+
+_WORK IN PROGRESS_
 
 You can use the [editor on GitHub](https://github.com/piloubazin/terra-incognita-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
