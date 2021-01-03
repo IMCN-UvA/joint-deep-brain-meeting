@@ -1,39 +1,72 @@
-# Terra Incognita: diving into the subcortex 2021
+# Terra Incognita
+# diving into the subcortex 2021
+
+The human subcortex remains terra incognita, a largely uncharted territory. Long-term efforts and
+advances in neuroanatomy, ultra-high field MRI, deep brain recording, and cognitive modeling are
+painting a rich and varied picture, which has very direct implication in fundamental and clinical
+neuroscience. This workshop aims to bring together some of the world's experts in the subcortex to
+discuss recent results from multiple techniques and foster interactions within this often disregarded
+region of the brain.
+
+## Invited speakers
+
+Birte Forstmann, University of Amsterdam, the Netherlands
+
+Juan Eugenio Iglesias, University College London, UK
+Mallar Chakravarty, McGill University, Montreal, Canada
+Jonathan Lau, University of Western Ontario, London, Canada
+
+Martijn Beudel, Amsterdam University Medical Center, the Netherlands
+Dagmar Timmann, Essen University , Germany
+Lea Grinberg, University of California San Francisco, USA
+James Rowe, Cambridge University, UK
+
+Evgeniya Kirilina, Max Plnack Institute for Human Cognitive and Brain Science, Leipzig, Germany
+Karla Miller, Oxford University, UK
+Matthan Caan, Amsterdam University Medical Center, the Netherlands
+
+Andreas Horn, Charité Berlin, Germany
+Suzanne Haber, University of Rochester, USA
+Andrew Zalesky, University of Melbourne, Australia
+
+Rafal Bogacz, Oxford University, UK
+Michael Frank, Brown University, Providence, USA
+Paul Cisek, University of Montreal, Canada
+
+## Preliminary program
+
+### Monday March 1st, 2021
+
+15h00 - 15h45 : Opening remarks and introduction (Pilou Bazin, Birte Forstmann)
+15h45 - 18h00 : Charting the Terra Incognita (Juan Eugenio Iglesias, Mallar Chakravarty, Jonathan Lau)
+18h45 - 22h00 : Probing the deep brain (Martijn Beudel, Dagmar Timmann, Lea Grinberg, James Rowe)
+
+### Tuesday March 2nd, 2021
+
+15h30 - 18h00 : Bridging MRI and microscopy (Evgeniya Kirilina, Karla Miller, Matthan Caan)
+19h00 - 21h30 : Tracing the subcortex's networks (Andreas Horn, Suzanne Haber, Andrew Zalesky)
+
+### Wednesday March 3rd, 2021
+
+15h30 - 18h00 : Uncovering subcortical behavior (Rafal Bogacz, Michael Frank, Paul Cisek)
+19h00 - 21:30 : General discussion (everyone)
+
+All presentation times are given in the Amsterdam timezone (UTC+1). Note that the unusual presentation times have been chosen in order to accommodate our speakers from different continents. Presentations will be recorded and posted on our youtube channel: IMCN-UvA.
+
+
+## Registration
+
 
 _WORK IN PROGRESS_
 
-You can use the [editor on GitHub](https://github.com/piloubazin/terra-incognita-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Registration is free but mandatory, by sending an e-mail with full name, academic or professional affiliation, and reason for participating in the workshop to registration.terra-incognita2021@uva.nl before February 22, 2021.
 
-### Markdown
+All workshop participants must agree to and follow our Code of Conduct below.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Code of Conduct
 
-# Header 1
-## Header 2
-### Header 3
+_WORK IN PROGRESS_
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/piloubazin/terra-incognita-2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
