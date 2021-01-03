@@ -21,7 +21,7 @@ region of the brain.
 - Lea Grinberg, University of California San Francisco, USA
 - James Rowe, Cambridge University, UK
 
-- Evgeniya Kirilina, Max Plnack Institute for Human Cognitive and Brain Science, Leipzig, Germany
+- Evgeniya Kirilina, Max Planck Institute for Human Cognitive and Brain Science, Leipzig, Germany
 - Karla Miller, Oxford University, UK
 - Matthan Caan, Amsterdam University Medical Center, the Netherlands
 
