@@ -48,13 +48,19 @@ region of the brain.
 
 ### Tuesday March 2nd, 2021
 
-- 15h30 - 18h00 : Bridging MRI and microscopy _(Evgeniya Kirilina, Karla Miller, Matthan Caan)_
-- 19h00 - 21h30 : Tracing the subcortex's networks _(Andreas Horn, Suzanne Haber, Andrew Zalesky)_
+15h30 - 18h00 
+: Bridging MRI and microscopy _(Evgeniya Kirilina, Karla Miller, Matthan Caan)_
+
+19h00 - 21h30 
+: Tracing the subcortex's networks _(Andreas Horn, Suzanne Haber, Andrew Zalesky)_
 
 ### Wednesday March 3rd, 2021
 
-- 15h30 - 18h00 : Uncovering subcortical behavior _(Rafal Bogacz, Michael Frank, Paul Cisek)_
-- 19h00 - 21:30 : General discussion _(everyone)_
+15h30 - 18h00 
+: Uncovering subcortical behavior _(Rafal Bogacz, Michael Frank, Paul Cisek)_
+
+19h00 - 21:30 
+: General discussion _(everyone)_
 
 All presentation times are given in the Amsterdam timezone (UTC+1). Note that the unusual presentation times have been chosen in order to accommodate our speakers from different continents. Presentations will be recorded and posted on our youtube channel: IMCN-UvA.
 
