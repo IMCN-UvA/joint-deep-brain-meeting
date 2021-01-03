@@ -37,9 +37,12 @@ region of the brain.
 
 ### Monday March 1st, 2021
 
-- 15h00 - 15h45 : Opening remarks and introduction _(Pilou Bazin, Birte Forstmann)_
-- 15h45 - 18h00 : Charting the Terra Incognita _(Juan Eugenio Iglesias, Mallar Chakravarty, Jonathan Lau)_
-- 18h45 - 22h00 : Probing the deep brain _(Martijn Beudel, Dagmar Timmann, Lea Grinberg, James Rowe)_
+15h00 - 15h45 : 
+  Opening remarks and introduction _(Pilou Bazin, Birte Forstmann)_
+15h45 - 18h00 : 
+  Charting the Terra Incognita _(Juan Eugenio Iglesias, Mallar Chakravarty, Jonathan Lau)_
+18h45 - 22h00 : 
+  Probing the deep brain _(Martijn Beudel, Dagmar Timmann, Lea Grinberg, James Rowe)_
 
 ### Tuesday March 2nd, 2021
 
