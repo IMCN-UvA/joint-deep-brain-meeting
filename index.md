@@ -1,4 +1,4 @@
-# Terra Incognita
+# <a name="home">Terra Incognita</a>
 # diving into the subcortex 2021
 
 The human subcortex remains terra incognita, a largely uncharted territory. Long-term efforts and
@@ -33,7 +33,7 @@ region of the brain.
 - Michael Frank, Brown University, Providence, USA
 - Paul Cisek, University of Montreal, Canada
 
-## Preliminary program
+## <a name="program">Preliminary program</a>
 
 ### Monday March 1st, 2021
 
@@ -66,7 +66,7 @@ All presentation times are given in the Amsterdam timezone (UTC+1). Note that th
 
 
 
-## Registration
+## <a name="register"></a>Registration
 
 Registration is free but mandatory, by sending an e-mail with full name, academic or professional affiliation, and reason for participating in the workshop to _WORK IN PROGRESS_
 
