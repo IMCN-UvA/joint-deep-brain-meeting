@@ -8,7 +8,7 @@ neuroscience. This workshop aims to bring together some of the world's experts i
 discuss recent results from multiple techniques and foster interactions within this often disregarded
 region of the brain.
 
-## Invited speakers
+## <a name="speakers"></a>Invited speakers
 
 - Birte Forstmann, University of Amsterdam, the Netherlands
 
