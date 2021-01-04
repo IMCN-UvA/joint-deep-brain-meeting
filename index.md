@@ -1,5 +1,5 @@
 # <a name="home"></a>Terra Incognita
-# diving into the subcortex 2021
+# Diving into the Subcortex 2021
 
 The human subcortex remains terra incognita, a largely uncharted territory. Long-term efforts and
 advances in neuroanatomy, ultra-high field MRI, deep brain recording, and cognitive modeling are
@@ -73,7 +73,7 @@ Registration is free but mandatory, by sending an e-mail with full name, academi
 All workshop participants must agree to and follow our Code of Conduct below.
 
 
-## Code of Conduct
+## <a name="code"></a>Code of Conduct
 
 This virtual workshop is meant to be a safe and welcoming environment for all, regardless of race, age, health status, ethnicity, ability, religion, political affiliation, gender identity, and sexual orientation.
 
