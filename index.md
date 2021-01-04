@@ -1,4 +1,4 @@
-# <a name="home">Terra Incognita</a>
+# <a name="home"></a>Terra Incognita
 # diving into the subcortex 2021
 
 The human subcortex remains terra incognita, a largely uncharted territory. Long-term efforts and
@@ -33,7 +33,7 @@ region of the brain.
 - Michael Frank, Brown University, Providence, USA
 - Paul Cisek, University of Montreal, Canada
 
-## <a name="program">Preliminary program</a>
+## <a name="program"></a>Preliminary program
 
 ### Monday March 1st, 2021
 
