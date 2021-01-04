@@ -102,4 +102,7 @@ REPORTING:
 If you are being harassed, notice that someone else is being treated poorly, or have additional concerns, please contact us. 
 _WORK IN PROGRESS_
 
-
+---
+ This page is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
+ 
+ Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></tiny></p>
