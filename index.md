@@ -10,8 +10,6 @@ region of the brain.
 
 ## <a name="speakers"></a>Invited speakers
 
-- Birte Forstmann, University of Amsterdam, the Netherlands
-
 - Juan Eugenio Iglesias, University College London, UK
 - Mallar Chakravarty, McGill University, Montreal, Canada
 - Jonathan Lau, University of Western Ontario, London, Canada
@@ -32,6 +30,18 @@ region of the brain.
 - Rafal Bogacz, Oxford University, UK
 - Michael Frank, Brown University, Providence, USA
 - Paul Cisek, University of Montreal, Canada
+
+## <a names="orga"></a>Organizing committee
+
+- Pierre-Louis Bazin, University of Amsterdam
+- Birte Forstmann, University of Amsterdam
+- Bernadette van Wijk, Vrije Universiteit Amsterdam
+- Anneke Alkemade, University of Amsterdam
+- Steven Miletic, University of Amsterdam
+- Max Keuken, Univresity of Amsterdam
+
+We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/).
+
 
 ## <a name="program"></a>Preliminary program
 
