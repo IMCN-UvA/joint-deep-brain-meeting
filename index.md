@@ -68,7 +68,9 @@ All presentation times are given in the Amsterdam timezone (UTC+1). Note that th
 
 ## <a name="register"></a>Registration
 
-Registration is free but mandatory, by sending an e-mail with full name, academic or professional affiliation, and reason for participating in the workshop to _WORK IN PROGRESS_
+Registration is free but mandatory, by filling this form:
+
+[Terra Incognita 2021 Registration Form](https://forms.gle/idtmWUYxVJ5LYDaKA)
 
 All workshop participants must agree to and follow our Code of Conduct below.
 
@@ -100,7 +102,6 @@ The workshop organizing team reserves the right to determine if any code of cond
 REPORTING:
 
 If you are being harassed, notice that someone else is being treated poorly, or have additional concerns, please contact us. 
-_WORK IN PROGRESS_
 
 ---
  This page is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
