@@ -35,7 +35,7 @@ region of the brain.
 
 - Pierre-Louis Bazin, University of Amsterdam
 - Birte Forstmann, University of Amsterdam
-- Bernadette van Wijk, Vrije Universiteit Amsterdam
+- Bernadette van Wijk, University of Amsterdam
 - Anneke Alkemade, University of Amsterdam
 - Steven Miletic, University of Amsterdam
 - Max Keuken, Univresity of Amsterdam
@@ -88,30 +88,8 @@ All workshop participants must agree to and follow our Code of Conduct below.
 ## <a name="code"></a>Code of Conduct
 
 This virtual workshop is meant to be a safe and welcoming environment for all, regardless of race, age, health status, ethnicity, ability, religion, political affiliation, gender identity, and sexual orientation.
-
 Any discrimination, intolerance, harassment, or aggression will absolutely not be tolerated. 
-
-ALL PARTICIPANTS agree to:
-
-- Be kind, courteous, respectful, inclusive, and welcoming to all.
-- Be patient and understanding to our speakers and staff in the virtual environment.
-- Follow instructions set forth by moderators and staff.
-- Immediately report any discriminatory, harassing, aggressive, or exclusionary behavior or speech to the workshop organizing team.
-
-WE WILL NOT TOLERATE:
-
-- Discriminatory, harassing, aggressive, or exclusionary conduct within any part of the event
-- Intentional session disruptions
-- Lewd, unruly, or vulgar behavior or language (including but not limited to offensive language, profanity, obscene gestures, or written or spoken slurs)
-- Any other behavior(s) deemed unacceptable by the staff and/or reproted by participants.
-
-CONSEQUENCES:
-
-The workshop organizing team reserves the right to determine if any code of conduct has been violated. If it is determined that any code has been violated, you will be removed from the event entirely. 
-
-REPORTING:
-
-If you are being harassed, notice that someone else is being treated poorly, or have additional concerns, please contact us. 
+If you are being harassed, notice that someone else is being treated poorly, or have additional concerns, please [contact us](terra-incognita.bazin@uva.nl). 
 
 ---
  This page is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
