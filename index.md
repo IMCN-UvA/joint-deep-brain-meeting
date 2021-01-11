@@ -26,6 +26,7 @@ region of the brain.
 - Andreas Horn, Charité Berlin, Germany
 - Suzanne Haber, University of Rochester, USA
 - Andrew Zalesky, University of Melbourne, Australia
+- Ye Tian, University of Melbourne, Australia
 
 - Rafal Bogacz, Oxford University, UK
 - Michael Frank, Brown University, Providence, USA
@@ -38,7 +39,7 @@ region of the brain.
 - Bernadette van Wijk, University of Amsterdam
 - Anneke Alkemade, University of Amsterdam
 - Steven Miletic, University of Amsterdam
-- Max Keuken, Univresity of Amsterdam
+- Max Keuken, University of Amsterdam
 
 We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/).
 
@@ -62,7 +63,7 @@ We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](htt
 : Bridging MRI and microscopy _(Evgeniya Kirilina, Karla Miller, Matthan Caan)_
 
 19h00 - 21h30 
-: Tracing the subcortex's networks _(Andreas Horn, Suzanne Haber, Andrew Zalesky)_
+: Tracing the subcortex's networks _(Andreas Horn, Suzanne Haber, Andrew Zalesky/Ye Tian)_
 
 ### Wednesday March 3rd, 2021
 
@@ -72,7 +73,7 @@ We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](htt
 19h00 - 21:30 
 : General discussion _(everyone)_
 
-All presentation times are given in the Amsterdam timezone (UTC+1). Note that the unusual presentation times have been chosen in order to accommodate our speakers from different continents. Presentations will be recorded and posted on our youtube channel: _WORK IN PROGRESS_
+All presentation times are given in the Amsterdam timezone (UTC+1). Note that the unusual presentation times have been chosen in order to accommodate our speakers from different continents. Presentations will be recorded and posted on our youtube channel (link coming soon).
 
 
 
