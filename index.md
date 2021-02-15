@@ -44,7 +44,9 @@ region of the brain.
 We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/).
 
 
-## <a name="program"></a>Preliminary program
+## <a name="program"></a>Program
+
+See the [full program](Terra-Incognita-2021-program.pdf) for details.
 
 ### Monday March 1st, 2021
 
@@ -79,7 +81,7 @@ All presentation times are given in the Amsterdam timezone (UTC+1). Note that th
 
 ## <a name="register"></a>Registration
 
-Registration is free but mandatory, by filling this form:
+Registration is free but mandatory, by filling this form *before February 25, 2021*:
 
 [Terra Incognita 2021 Registration Form](https://forms.gle/idtmWUYxVJ5LYDaKA)
 
