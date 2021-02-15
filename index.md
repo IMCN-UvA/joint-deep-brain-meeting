@@ -75,7 +75,7 @@ See the [full program](Terra-Incognita-2021-program.pdf) for details.
 19h00 - 21:30 
 : General discussion _(everyone)_
 
-All presentation times are given in the Amsterdam timezone (UTC+1). Note that the unusual presentation times have been chosen in order to accommodate our speakers from different continents. Presentations will be recorded and posted on our youtube channel (link coming soon).
+All presentation times are given in the Amsterdam timezone (UTC+1). Note that the unusual presentation times have been chosen in order to accommodate our speakers from different continents. Presentations from agreeing speakers will be recorded and posted on our [youtube channel](https://www.youtube.com/channel/UCQOdEztc0qpgs8mvlaFSuCQ).
 
 
 
