@@ -1,7 +1,7 @@
 # <a name="home"></a>An interdisciplinary perspective on the deep brain in health and disease
 # Diving into the Subcortex 2022
 
-The subcortex is crucial for cognition and disruption of subcortical structures is often observed in common neurodegenerative diseases. The complexity of the subcortex warrants an interdisciplinary approach that combines insights ranging from fundamental neuroscience via cognitive neuroscience in healthy and clinical populations to neurocomputational modelling. This meeting aims to provide a stage for promising young researchers to present their work on the subcortex, and to foster interactions between researchers that apply various techniques.
+The subcortex is crucial for cognition and disruption of subcortical structures is often observed in common neurodegenerative diseases. The complexity of the subcortex warrants an interdisciplinary approach that combines insights ranging from fundamental neuroscience via cognitive neuroscience in healthy and clinical populations to neurocomputational modelling. This meeting aims to provide a stage for promising young researchers to present their work, and to foster interactions between researchers that apply a wide range of methods and techniques to study the subcortex.
 
 ## <a names="orga"></a>Organizing committee
 
