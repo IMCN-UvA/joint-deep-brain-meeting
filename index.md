@@ -12,9 +12,6 @@ This meeting aims to provide a stage for promising young researchers to present 
 - Ingo Willuhn, Netherlands Institute for Neuroscience
 - Guido van Wingen, Amsterdam UMC
 - Taco de Vries, VU Amsterdam
-- Anneke Alkemade, University of Amsterdam
-- Pierre-Louis Bazin, University of Amsterdam
-- Steven Miletić, University of Amsterdam
 
 We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/) and [NWO](https://www.nwo.nl/) 
 
