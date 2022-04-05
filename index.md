@@ -22,7 +22,7 @@ Coffee/tea, lunch, and afternoon drinks are provided.
 
 
 ## <a name="program"></a>Program
-The meeting is organized around three themes: Fundamental Neuroscience, Computational Cognitive Neuroscience, and Translational clinical approaches including neurotechnology. There will be one session of talks devoted to each theme, plus a poster session covering all themes. All speakers will be selected from the submissions based on scientific merit, fit within the themes, diversity, with an emphasis on young scientists (PhD students and post-doctoral researchers).
+The meeting is organized around three themes: Fundamental Neuroscience, Computational Cognitive Neuroscience, and Translational clinical approaches including neurotechnology. Each theme will be covered with one session of talks, plus a poster session covering all themes. All speakers will be selected from the submissions with an emphasis on young scientists (PhD students and post-doctoral researchers).
 
 ### Friday June 10th, 2022
 
