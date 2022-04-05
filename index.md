@@ -14,7 +14,7 @@ The subcortex is crucial for cognition and disruption of subcortical structures 
 - Guido van Wingen, Amsterdam UMC
 - Taco de Vries, VU Amsterdam
 
-We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/) and [NWO](link) 
+We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/) and [NWO](https://www.nwo.nl/) 
 **TO DO: FIX LINKS**
 
 ## Venue
@@ -61,7 +61,7 @@ Submit your abstract (max 1 page at font size 11, max 2 figures on separate page
 
 Registration is free, by filling this form *before May 15th, 2022*:
 **TO DO: FIX LINK**
-[Joint Deep Brain meeting 2022 Registration Form](https://forms.gle/idtmWUYxVJ5LYDaKA)
+[Joint Deep Brain meeting 2022 Registration Form](https://docs.google.com/forms/d/1aF7L_jm2wJepuMOKtAw54vkP22_SbsYO7LHLniplh1Q/viewform?usp=sharing&edit_requested=true)
 
 
 
