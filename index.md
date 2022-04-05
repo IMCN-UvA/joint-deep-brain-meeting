@@ -18,7 +18,7 @@ We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](htt
 ## Venue
 The meeting will be held at the [OBA Forum](https://www.obacongres.nl/forum): OBA Congres, Oosterdokskade 143, 1011 DK Amsterdam. It's a five minute walk from Amsterdam Central Station.
 
-Attendence, including coffee/tea, lunch, and afternoon drinks, is free.
+Attendence is free, and includes coffee/tea, lunch, and afternoon drinks.
 
 
 ## <a name="program"></a>Program
