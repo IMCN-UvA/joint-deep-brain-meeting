@@ -15,10 +15,8 @@ The subcortex is crucial for cognition and disruption of subcortical structures 
 - Taco de Vries, VU Amsterdam
 
 We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/) and [NWO](https://www.nwo.nl/) 
-**TO DO: FIX LINKS**
 
 ## Venue
-**TO DO: FIX LINKS**
 The meeting will be held at the [OBA Forum](https://www.obacongres.nl/forum): OBA Congres Oosterdokskade 143 1011 DK Amsterdam.
 
 Coffee/tea, lunch, and afternoon drinks are provided.
@@ -60,7 +58,7 @@ All times are given in the Amsterdam timezone (UTC+1).
 Submit your abstract (max 1 page at font size 11, max 2 figures on separate page) via the link below. Please indicate whether you prefer giving a talk or a poster presentation. Submissions will be selected based on scientific merit, fit within the three themes, and diversity. We especially encourage junior researchers to submit their work.
 
 Registration is free, by filling this form *before May 15th, 2022*:
-**TO DO: FIX LINK**
+**TO DO: FIX LINK ONCE FORM IS COMPLETE**
 [Joint Deep Brain meeting 2022 Registration Form](https://docs.google.com/forms/d/1aF7L_jm2wJepuMOKtAw54vkP22_SbsYO7LHLniplh1Q/viewform?usp=sharing&edit_requested=true)
 
 
