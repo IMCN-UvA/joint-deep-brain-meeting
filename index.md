@@ -39,7 +39,7 @@ The meeting is organized around three themes: Fundamental Neuroscience, Computat
 : Lunch (provided)
 
 13h00 - 14h45 
-: Session 2 _Computational Cognitive Neuroscience_
+: Session 2: _Computational Cognitive Neuroscience_
 
 14h45 - 15h00
 : Break
