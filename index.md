@@ -1,18 +1,20 @@
 # <a name="home"></a>An interdisciplinary perspective on the deep brain in health and disease
 # Diving into the Subcortex 2022
 
-The subcortex is crucial for cognition and disruption of subcortical structures is often observed in common neurodegenerative diseases. The complexity of the subcortex warrants an interdisciplinary approach that combines insights ranging from fundamental neuroscience via cognitive neuroscience in healthy and clinical populations to neurocomputational modelling. This meeting aims to provide a stage for promising young researchers to present their work, and to foster interactions between researchers that apply a wide range of methods and techniques to study the subcortex.
+The subcortex is crucial for cognition and disruption of subcortical structures is often observed in common neurodegenerative diseases. The complexity of the subcortex warrants an interdisciplinary approach that combines insights ranging from fundamental neuroscience via cognitive neuroscience in healthy and clinical populations to neurocomputational modelling. 
+
+This meeting aims to provide a stage for promising young researchers to present their work, and to foster interactions between researchers that apply a wide range of methods and techniques to study the subcortex.
 
 ## <a names="orga"></a>Organizing committee
 
-- Pierre-Louis Bazin, University of Amsterdam
 - Birte Forstmann, University of Amsterdam
-- Anneke Alkemade, University of Amsterdam
-- Steven Miletic, University of Amsterdam
 - Paul Lucassen, University of Amsterdam
 - Ingo Willuhn, Netherlands Institute for Neuroscience
 - Guido van Wingen, Amsterdam UMC
 - Taco de Vries, VU Amsterdam
+- Anneke Alkemade, University of Amsterdam
+- Pierre-Louis Bazin, University of Amsterdam
+- Steven Miletić, University of Amsterdam
 
 We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/) and [NWO](https://www.nwo.nl/) 
 
@@ -34,19 +36,19 @@ The meeting is organized around three themes: Fundamental Neuroscience, Computat
 : Opening remarks and introduction
 
 9h45 - 11h45 
-: Session 1
+: Session 1: _Fundamental Neuroscience_
 
 12h00 - 13h00
 : Lunch (provided)
 
 13h00 - 14h45 
-: Session 2
+: Session 2 _Computational Cognitive Neuroscience_
 
 14h45 - 15h00
 : Break
 
 15h00 - 16h45 
-: Session 3
+: Session 3: _Translational clinical approaches including neurotechnology_
 
 16h45 - 19h00
 : Posters & drinks
@@ -55,7 +57,7 @@ All times are given in the Amsterdam timezone (UTC+1).
 
 
 ## <a name="register"></a>Abstract submission
-Submit your abstract (max 1 page at font size 11, max 2 figures on separate page) via the link below. Please indicate whether you prefer giving a talk or a poster presentation. Submissions will be selected based on scientific merit, fit within the three themes, and diversity. We especially encourage junior researchers to submit their work.
+Submit your abstract (max 1 page at font size 11, max 2 figures on separate page) via the link below. Please indicate whether you prefer giving a talk or a poster presentation. Submissions will be selected based on scientific merit, fit within the three themes, and diversity. _We especially encourage junior researchers (PhD students and post-doctoral researchers) to submit their work._
 
 Registration is free, by filling this form *before May 15th, 2022*:
 **TO DO: FIX LINK ONCE FORM IS COMPLETE**
