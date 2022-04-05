@@ -7,13 +7,13 @@ This meeting aims to provide a stage for promising young researchers to present 
 
 ## <a names="orga"></a>Organizing committee
 
+- Taco de Vries, VU Amsterdam
 - Birte Forstmann, University of Amsterdam
 - Paul Lucassen, University of Amsterdam
 - Ingo Willuhn, Netherlands Institute for Neuroscience
 - Guido van Wingen, Amsterdam UMC
-- Taco de Vries, VU Amsterdam
 
-We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/) and [NWO](https://www.nwo.nl/) 
+We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/) and [NWO](https://www.nwo.nl/), [Netherlands Institute for Neuroscience](https://nin.nl/), [Amsterdam Neuroscience](https://www.amsterdamumc.org/en/research/institutes/amsterdam-neuroscience.htm).
 
 ## Venue
 The meeting will be held at the [OBA Forum](https://www.obacongres.nl/forum): OBA Congres, Oosterdokskade 143, 1011 DK Amsterdam. It's a five minute walk from Amsterdam Central Station.
