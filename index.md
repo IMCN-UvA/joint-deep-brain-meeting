@@ -10,7 +10,7 @@ This meeting aims to provide a stage for promising young researchers to present 
 - Taco de Vries, VU Amsterdam
 - Birte Forstmann, University of Amsterdam
 - Paul Lucassen, University of Amsterdam
-- Ingo Willuhn, Netherlands Institute for Neuroscience
+- Ingo Willuhn, Netherlands Institute for Neuroscience & Amsterdam UMC
 - Guido van Wingen, Amsterdam UMC
 
 We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/) and [NWO](https://www.nwo.nl/), [Netherlands Institute for Neuroscience](https://nin.nl/), [Amsterdam Neuroscience](https://www.amsterdamumc.org/en/research/institutes/amsterdam-neuroscience.htm).
