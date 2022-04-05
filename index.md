@@ -1,96 +1,71 @@
 # <a name="home"></a>An interdisciplinary perspective on the deep brain in health and disease
 # Diving into the Subcortex 2022
 
-The human subcortex remains terra incognita, a largely uncharted territory. Long-term efforts and
-advances in neuroanatomy, ultra-high field MRI, deep brain recording, and cognitive modeling are
-painting a rich and varied picture, which has very direct implication in fundamental and clinical
-neuroscience. This workshop aims to bring together some of the world's experts in the subcortex to
-discuss recent results from multiple techniques and foster interactions within this often disregarded
-region of the brain.
-
-## <a name="speakers"></a>Invited speakers
-
-- Juan Eugenio Iglesias, University College London, UK
-- Mallar Chakravarty, McGill University, Montreal, Canada
-- Jonathan Lau, University of Western Ontario, London, Canada
-
-- Martijn Beudel, Amsterdam University Medical Center, the Netherlands
-- Dagmar Timmann, Essen University , Germany
-- Lea Grinberg, University of California San Francisco, USA
-- James Rowe, Cambridge University, UK
-
-- Evgeniya Kirilina, Max Planck Institute for Human Cognitive and Brain Science, Leipzig, Germany
-- Karla Miller, Oxford University, UK
-- Matthan Caan, Amsterdam University Medical Center, the Netherlands
-
-- Andreas Horn, Charité Berlin, Germany
-- Suzanne Haber, University of Rochester, USA
-- Andrew Zalesky, University of Melbourne, Australia
-- Ye Tian, University of Melbourne, Australia
-
-- Rafal Bogacz, Oxford University, UK
-- Michael Frank, Brown University, Providence, USA
-- Paul Cisek, University of Montreal, Canada
+The subcortex is crucial for cognition and disruption of subcortical structures is often observed in common neurodegenerative diseases. The complexity of the subcortex warrants an interdisciplinary approach that combines insights ranging from fundamental neuroscience via cognitive neuroscience in healthy and clinical populations to neurocomputational modelling. This meeting aims to provide a stage for promising young researchers to present their work on the subcortex, and to foster interactions between researchers that apply various techniques.
 
 ## <a names="orga"></a>Organizing committee
 
 - Pierre-Louis Bazin, University of Amsterdam
 - Birte Forstmann, University of Amsterdam
-- Bernadette van Wijk, University of Amsterdam
 - Anneke Alkemade, University of Amsterdam
 - Steven Miletic, University of Amsterdam
-- Max Keuken, University of Amsterdam
+- Paul Lucassen, University of Amsterdam
+- Ingo Willuhn, Netherlands Institute for Neuroscience
+- Guido van Wingen, Amsterdam UMC
+- Taco de Vries, VU Amsterdam
 
-We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/).
+We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/) and [NWO](link) 
+**TO DO: FIX LINKS**
+
+## Venue
+**TO DO: FIX LINKS**
+The meeting will be held at the [OBA Forumzaal](link). Coffee/tea, lunch, and afternoon drinks are provided.
 
 
 ## <a name="program"></a>Program
+The meeting is organized around three themes: Fundamental Neuroscience, Computational Cognitive Neuroscience, and Translational clinical approaches including neurotechnology. There will be one session of 5-6 talks devoted to each theme, plus a poster session covering all themes. All speakers will be selected from the submissions.
 
-See the [full program](Terra-Incognita-2021-program.pdf) for details.
+### Friday June 10th, 2022
 
-### Monday March 1st, 2021
+9h00 - 9h30
+: Walk-in, poster set-up
 
-15h00 - 15h45
-: Opening remarks and introduction _(Pilou Bazin, Birte Forstmann)_
+9h30 - 9h45
+: Opening remarks and introduction
 
-15h45 - 18h00 
-: Charting the Terra Incognita _(Juan Eugenio Iglesias, Mallar Chakravarty, Jonathan Lau)_
+9h45 - 11h45 
+: Session 1
 
-18h45 - 22h00
-: Probing the deep brain _(Martijn Beudel, Dagmar Timmann, Lea Grinberg, James Rowe)_
+12h00 - 13h00
+: Lunch (provided)
 
-### Tuesday March 2nd, 2021
+13h00 - 14h45 
+: Session 2
 
-15h30 - 18h00 
-: Bridging MRI and microscopy _(Evgeniya Kirilina, Karla Miller, Matthan Caan)_
+14h45 - 15h00
+: Break
 
-19h00 - 21h30 
-: Tracing the subcortex's networks _(Andreas Horn, Suzanne Haber, Andrew Zalesky/Ye Tian)_
+15h00 - 16h45 
+: Session 3
 
-### Wednesday March 3rd, 2021
+16h45 - 19h00
+: Posters & drinks
 
-15h30 - 18h00 
-: Uncovering subcortical behavior _(Rafal Bogacz, Michael Frank, Paul Cisek)_
-
-19h00 - 21:30 
-: General discussion _(everyone)_
-
-All presentation times are given in the Amsterdam timezone (UTC+1). Note that the unusual presentation times have been chosen in order to accommodate our speakers from different continents. Presentations from agreeing speakers will be recorded and posted on our [youtube channel](https://www.youtube.com/channel/UCQOdEztc0qpgs8mvlaFSuCQ).
+All times are given in the Amsterdam timezone (UTC+1).
 
 
+## <a name="register"></a>Abstract submission
+Submit your abstract (max 1 page at font size 11, max 2 figures on separate page) via the link below. Please indicate whether you prefer giving a talk or a poster presentation. Submissions will be selected based on scientific merit, fit within the three themes, and diversity. We especially encourage junior researchers to submit their work.
 
-## <a name="register"></a>Registration
+Registration is free, by filling this form *before May 15th, 2022*:
+**TO DO: FIX LINK**
+[Joint Deep Brain meeting 2022 Registration Form](https://forms.gle/idtmWUYxVJ5LYDaKA)
 
-Registration is free but mandatory, by filling this form *before February 25, 2021*:
-
-[Terra Incognita 2021 Registration Form](https://forms.gle/idtmWUYxVJ5LYDaKA)
-
-All workshop participants must agree to and follow our Code of Conduct below.
 
 
 ## <a name="code"></a>Code of Conduct
 
-This virtual workshop is meant to be a safe and welcoming environment for all, regardless of race, age, health status, ethnicity, ability, religion, political affiliation, gender identity, and sexual orientation.
+This meeting is meant to be a safe and welcoming environment for all, regardless of race, age, health status, ethnicity, ability, religion, political affiliation, gender identity, and sexual orientation.
 Any discrimination, intolerance, harassment, or aggression will absolutely not be tolerated. 
 If you are being harassed, notice that someone else is being treated poorly, or have additional concerns, please contact us at <terra-incognita.bazin@uva.nl>. 
 
