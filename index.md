@@ -24,7 +24,6 @@ Coffee/tea, lunch, and afternoon drinks are provided.
 ## <a name="program"></a>Program
 The meeting is organized around three themes: Fundamental Neuroscience, Computational Cognitive Neuroscience, and Translational clinical approaches including neurotechnology. Each theme will be covered with one session of talks, plus a poster session covering all themes. All speakers will be selected from the submissions with an emphasis on young scientists (PhD students and post-doctoral researchers).
 
-There will be an option to attend the talks virtually.
 
 ### Friday June 10th, 2022
 
@@ -61,6 +60,7 @@ Submit your abstract (max 1 page at font size 11, max 2 figures on separate page
 Registration is free, by filling this form *before May 15th, 2022*:
 **TO DO: FIX LINK ONCE FORM IS COMPLETE**
 [Joint Deep Brain meeting 2022 Registration Form](https://docs.google.com/forms/d/1aF7L_jm2wJepuMOKtAw54vkP22_SbsYO7LHLniplh1Q/viewform?usp=sharing&edit_requested=true)
+Please indicate whether you would like to attend the talks virtually (without an option for a contribution) or in person.
 
 
 
