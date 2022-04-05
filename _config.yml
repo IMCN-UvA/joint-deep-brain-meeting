@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
 title: " "
 description: "Joint meeting on the deep brain, Amsterdam, June 10th, 2022"
-logo: Flyer.png
+logo: logos_combined.png
 show_downloads: false
