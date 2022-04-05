@@ -1,5 +1,5 @@
-# <a name="home"></a>Terra Incognita
-# Diving into the Subcortex 2021
+# <a name="home"></a>An interdisciplinary perspective on the deep brain in health and disease
+# Diving into the Subcortex 2022
 
 The human subcortex remains terra incognita, a largely uncharted territory. Long-term efforts and
 advances in neuroanatomy, ultra-high field MRI, deep brain recording, and cognitive modeling are
