@@ -55,13 +55,12 @@ All times are given in the Amsterdam timezone (UTC+1).
 
 
 ## <a name="register"></a>Abstract submission
-Submit your abstract (max 1 page at font size 11, max 2 figures on separate page) via the link below. Please indicate whether you prefer giving a talk or a poster presentation. Submissions will be selected based on scientific merit, fit within the three themes, and diversity. _We especially encourage junior researchers (PhD students and post-doctoral researchers) to submit their work._
+Submit your abstract (max 1 page at font size 11, max 2 figures on separate page) via the link below. Please indicate whether you prefer giving a talk or a poster presentation. Submissions will be selected based on scientific merit, fit within the three themes, and diversity. _We especially encourage junior researchers (PhD students and post-doctoral researchers) to submit their work._ Please submit your abstract here: [Abstract submission](https://surfdrive.surf.nl/files/index.php/s/LmUfD1rKoKkOFdh)
 
 Registration is free, by filling this form *before May 15th, 2022*:
 [Joint Deep Brain meeting 2022 Registration Form](https://docs.google.com/forms/d/1aF7L_jm2wJepuMOKtAw54vkP22_SbsYO7LHLniplh1Q/viewform?usp=sharing&edit_requested=true)
-Please submit your abstract here: [Abstract submission](https://surfdrive.surf.nl/files/index.php/s/LmUfD1rKoKkOFdh)
 
-Please indicate whether you would like to attend the talks virtually (without an option for a contribution) or in person.
+Upon registration, please indicate whether you would like to attend the talks virtually (without an option for a contribution) or in person.
 
 
 
