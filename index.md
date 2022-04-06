@@ -70,6 +70,10 @@ This meeting is meant to be a safe and welcoming environment for all, regardless
 Any discrimination, intolerance, harassment, or aggression will absolutely not be tolerated. 
 If you are being harassed, notice that someone else is being treated poorly, or have additional concerns, please contact us at <jointdeepbrainmeeting@gmail.com>. 
 
+## <a name="contact"></a>Contact
+If you have any questions, please contact us at <jointdeepbrainmeeting@gmail.com>. 
+
+
 ---
  This page is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
  
