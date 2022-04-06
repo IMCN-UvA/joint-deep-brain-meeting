@@ -68,7 +68,7 @@ Upon registration, please indicate whether you would like to attend the talks vi
 
 This meeting is meant to be a safe and welcoming environment for all, regardless of race, age, health status, ethnicity, ability, religion, political affiliation, gender identity, and sexual orientation.
 Any discrimination, intolerance, harassment, or aggression will absolutely not be tolerated. 
-If you are being harassed, notice that someone else is being treated poorly, or have additional concerns, please contact us at <terra-incognita.bazin@uva.nl>. 
+If you are being harassed, notice that someone else is being treated poorly, or have additional concerns, please contact us at <jointdeepbrainmeeting@gmail.com>. 
 
 ---
  This page is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
