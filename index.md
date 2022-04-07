@@ -13,7 +13,7 @@ This meeting aims to provide a stage for promising young researchers to present 
 - Ingo Willuhn, Netherlands Institute for Neuroscience & Amsterdam UMC
 - Guido van Wingen, Amsterdam UMC
 
-We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/), [Netherlands Institute for Neuroscience](https://nin.nl/), [Amsterdam Neuroscience](https://www.amsterdamumc.org/en/research/institutes/amsterdam-neuroscience.htm), and  [NWO](https://www.nwo.nl/).
+We are grateful for the support of the [Amsterdam Brain and Cognition (ABC)](https://abc.uva.nl/), [Netherlands Institute for Neuroscience (NIN)](https://nin.nl/), [Amsterdam Neuroscience](https://www.amsterdamumc.org/en/research/institutes/amsterdam-neuroscience.htm), and  [NWO](https://www.nwo.nl/).
 
 ## Venue
 The meeting will be held at the [OBA Forum](https://www.obacongres.nl/forum): OBA Congres, Oosterdokskade 143, 1011 DK Amsterdam. It's a five minute walk from Amsterdam Central Station.
