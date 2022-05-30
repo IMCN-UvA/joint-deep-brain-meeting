@@ -31,7 +31,7 @@ The meeting is organized around three themes: Fundamental Neuroscience, Computat
 : Walk-in, poster set-up
 
 9h30 - 9h45
-: Opening remarks and introduction
+: Em. prof. Piet Hoogland: Introduction to the deep brain
 
 9h45 - 11h45 
 : Session 1: _Fundamental Neuroscience_:
