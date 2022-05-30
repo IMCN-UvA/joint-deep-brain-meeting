@@ -57,6 +57,7 @@ The meeting is organized around three themes: Fundamental Neuroscience, Computat
 15h00 - 16h45
 : Session 3: _Translational clinical approaches including neurotechnology_
 - Arbab: Subcortical Electrophysiological Biomarkers of Compulsivity in Obsessive-Compulsive Disorder
+- van Paridon: Effects of repetitive transcranial magnetic stimulation in patients with body dysmorphic disorder
 - Mol: Deep brain stimulation of the medial forebrain bundle in treatment-resistant depression: Preliminary results showing swift antidepressant effects
 - Karaszewska: Efficacy and Safety of Deep Brain Stimulation for Treatment-refractory Anorexia Nervosa: a meta-analysis
 
