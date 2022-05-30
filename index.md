@@ -34,19 +34,31 @@ The meeting is organized around three themes: Fundamental Neuroscience, Computat
 : Opening remarks and introduction
 
 9h45 - 11h45 
-: Session 1: _Fundamental Neuroscience_
+: Session 1: _Fundamental Neuroscience_:
+- Alkemade: Anatomical mapping to study human subcortical function
+- Gulban: Vasculature mapping in human superior and inferior colliculus
+- Brandstetter: Cytoarchitectonic mapping, 3D-reconstruction and texture analysis of the human bed nucleus of the stria terminalis
+- Kiwitz: Cytoarchitectonic Maps of the Human Metathalamus in 3D space
 
 12h00 - 13h00
 : Lunch (provided)
 
 13h00 - 14h45 
 : Session 2: _Computational Cognitive Neuroscience_
+- Stevenson: Dimensionality reduction for hierarchical joint models
+- Priovoulos: Human cerebellar cortical sheet visualized in-vivo using motion-corrected MRI
+- Miletic: Functional MRI of the human subcortex: Challenges and opportunities
+- Dahl: Dopaminergic and noradrenergic integrity are differentially associated with late-life memory performance
+
 
 14h45 - 15h00
 : Break
 
-15h00 - 16h45 
+15h00 - 16h45
 : Session 3: _Translational clinical approaches including neurotechnology_
+- Arbab: Subcortical Electrophysiological Biomarkers of Compulsivity in Obsessive-Compulsive Disorder
+- Mol: Deep brain stimulation of the medial forebrain bundle in treatment-resistant depression: Preliminary results showing swift antidepressant effects
+- Karaszewska: Efficacy and Safety of Deep Brain Stimulation for Treatment-refractory Anorexia Nervosa: a meta-analysis
 
 16h45 - 19h00
 : Posters & drinks
